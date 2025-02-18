@@ -3,6 +3,12 @@
 - Frontend only.
 - Add, delete, reverse demo actions.
 
+## Install dependencies
+
+```shell
+npm install
+```
+
 ## Serve app
 
 ```shell
